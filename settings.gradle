@@ -1,0 +1,6 @@
+rootProject.name = 'homework.OnlineChat'
+include 'Client'
+include 'Server'
+include 'Server'
+include 'Client'
+
